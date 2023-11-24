@@ -3,10 +3,6 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
-
-Include your ER diagram here
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -42,6 +38,7 @@ class StudentAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
+![Screenshot from 2023-10-29 19-16-20](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/87fb70be-d37f-4bb8-b56e-fcf8a64fe00a)
 
 
 ## RESULT
