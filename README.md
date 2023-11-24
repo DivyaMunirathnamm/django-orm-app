@@ -4,7 +4,6 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Procdure
-
 ### STEP 1:
 Clone the problem from github.
 ### STEP 2:
