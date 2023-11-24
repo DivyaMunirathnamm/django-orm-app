@@ -37,7 +37,6 @@ class StudentAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Screenshot from 2023-10-29 19-16-20](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/87fb70be-d37f-4bb8-b56e-fcf8a64fe00a)
-
+![Screenshot from 2023-11-12 18-00-51](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/85a45bdb-2e1a-4ccd-bd96-8d71b2958a6e)
 
 ## RESULT
