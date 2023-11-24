@@ -3,16 +3,16 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## DESIGN STEPS
+## Procdure
 
 ### STEP 1:
 Clone the problem from github.
 ### STEP 2:
-create a new app
+create a new app.
 ### STEP 3:
-Enter the code for admin.py and model.py
+Enter the code for admin.py and model.py.
 ### Step 4:
-Execute Django admin and create 10 student
+Execute Django admin and create 10 student.
 ## PROGRAM
 ```
 admin.py
@@ -40,3 +40,5 @@ class StudentAdmin(admin.ModelAdmin):
 ![Screenshot from 2023-11-12 18-00-51](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/85a45bdb-2e1a-4ccd-bd96-8d71b2958a6e)
 
 ## RESULT
+The program for creating a database using ORM has been executed sucessfully.
+
