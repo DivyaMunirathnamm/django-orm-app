@@ -33,7 +33,6 @@ class Student(models.Model):
 
 class StudentAdmin(admin.ModelAdmin):
     list_display=('referencenumber','name','age','email')
-
 ```
 
 ## OUTPUT
