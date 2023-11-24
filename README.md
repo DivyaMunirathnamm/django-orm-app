@@ -12,7 +12,7 @@ create a new app.
 ### STEP 3:
 Enter the code for admin.py and model.py.
 ### Step 4:
-Execute Django admin and create 10 student.
+Execute Django admin and create student user.
 ## PROGRAM
 ```
 admin.py
