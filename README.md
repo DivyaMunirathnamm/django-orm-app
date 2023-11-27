@@ -35,8 +35,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
-![Screenshot from 2023-11-12 18-00-51](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/85a45bdb-2e1a-4ccd-bd96-8d71b2958a6e)
+![Screenshot from 2023-10-29 20-26-19](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/f52ce11a-b5a4-4aa7-a545-07471e2f757b)
 
 ## RESULT
 The program for creating a database using ORM has been executed sucessfully.
