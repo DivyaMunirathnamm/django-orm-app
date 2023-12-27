@@ -4,6 +4,7 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity digram
+![Screenshot from 2023-12-24 11-36-30](https://github.com/DivyaMunirathnamm/django-orm-app/assets/147474097/1bd90fad-eb5c-4789-a081-406590a321db)
 
 ## Procdure
 ### STEP 1:
